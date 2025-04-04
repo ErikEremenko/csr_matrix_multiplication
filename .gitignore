@@ -1,0 +1,6 @@
+Implementierung/main
+.vscode
+
+# Testing
+Implementierung/generated/*.txt
+Implementierung/generate

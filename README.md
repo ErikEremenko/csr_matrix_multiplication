@@ -1,8 +1,9 @@
 # GRA Projekt
 
-Hier ist der Code zum GRA Projekt von Berk Erdemoglu, Erik Eremenko und Alessandro Kronast-Reichert für SoSe23/24.
+Hier ist der Code zu unserem Gruppenprojekt für das Modul Grundlagenpraktikum Rechnerarchitektur an der TUM von Berk Erdemoglu, Erik Eremenko und Alessandro Kronast-Reichert für SoSe23/24.
+Weitere Details finden Sie in unserem Projektbericht.
 
 
-### Einziger Commit
+#### Hinweis: Einziger Commit
 
-Es gibt lediglich einen Commit, da ich die Aufgabenstellung usw. löschen musste. Die Beiträge von Erik und Alessandro sind aber nicht zu vergessen!
+Es gibt lediglich einen Commit, da ich die Aufgabenstellung usw. löschen musste, um den Code hier veröffentlichen zu dürfen. Die Beiträge von Erik und Alessandro wurden somit nicht richtig in Github getracked - sie sind aber nicht zu vergessen!

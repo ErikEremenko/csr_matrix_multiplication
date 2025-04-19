@@ -37,4 +37,4 @@ Alessandro Kronast-Reichert trug der Recherche maßgeblich mit dem Vorschlag zur
 
 ---
 
-Dieses Projektbericht wurde von mir bearbeitet, damit es möglichst wenig Information zur ursprünglichen Aufgabenstellung enthält, außer natürlich das Ziel des Projekts.
+Anmerkung: Dieser Projektbericht wurde für die Veröffentlichung bearbeitet und Details der Aufgabenstellung zur Modulprüfung entfernt.
